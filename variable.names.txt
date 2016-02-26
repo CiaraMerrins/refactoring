@@ -1,0 +1,5 @@
+JLabel firstnameLabel, surnameLabel, ppsLabel, dobLabel;
+	JTextField firstnameTextField, surnameTextField, ppsTextField,
+			dobTextField;
+	JLabel customerIDLabel, passwordLabel;
+	JTextField customerIDTextField, passwordTextField;
