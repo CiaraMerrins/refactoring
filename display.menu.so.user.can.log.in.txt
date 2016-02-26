@@ -1,0 +1,3 @@
+JOptionPane.showMessageDialog(f, "CustomerID = " + CustomerID + "\n Password = " + password, "Customer created.", JOptionPane.INFORMATION_MESSAGE);
+menuStart();
+//f.dispose();
